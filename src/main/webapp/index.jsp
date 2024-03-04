@@ -17,6 +17,6 @@
     </style>
 </head>
 <body>
-    <h1>Hi! Welcome to DevOps.....modified </h1>
+    <h1>Hello ... Welcome to DevOps.....modified </h1>
 </body>
 </html>
