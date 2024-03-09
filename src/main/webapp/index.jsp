@@ -17,6 +17,6 @@
     </style>
 </head>
 <body>
-    <h1>Hello ... Welcome to Sriman IT Institute .... </h1>
+    <h1>Hello Nusrat and Vinay ... Welcome to Sriman IT Institute .... from DevOps Team </h1>
 </body>
 </html>
